@@ -1,4 +1,4 @@
-![logo]("C:\Users\hp\Desktop\ALL PICS\recovered pics\proffesional\f121472344.jpg")
+
 <h1 align="center">Hi 👋, I'm Mudit Mishra</h1>
 <h3 align="center">A passionate Flutter developer and Front-End Web developer from India</h3>
 
