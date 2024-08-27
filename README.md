@@ -1,8 +1,8 @@
-
+![logo]("C:\Users\hp\Desktop\ALL PICS\recovered pics\proffesional\f121472344.jpg")
 <h1 align="center">Hi 👋, I'm Mudit Mishra</h1>
-<h3 align="center">A passionate Android developer(flutter) and Front-End Web developer from India</h3>
+<h3 align="center">A passionate Flutter developer and Front-End Web developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif"
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muditmishra01&label=Profile%20views&color=0e75b6&style=flat" alt="muditmishra01" /> </p>
 
